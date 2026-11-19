@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Data and database
+data/online_retail_II.xlsx
+data/Online Retail II_Dataset.duckdb
+data/Online Retail II_Dataset.duckdb.wal
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
